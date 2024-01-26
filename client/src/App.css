@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #fff;
+  background: rgb(128, 128, 128);
   display: block;
   margin: 0px 15px;
 }
@@ -50,7 +50,7 @@ body {
 
 .form-modal .login,
 .form-modal .signup {
-  background: #57b846;
+  background: #5235c7;
   color: #fff;
 }
 
